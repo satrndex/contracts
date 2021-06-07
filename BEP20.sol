@@ -5,7 +5,7 @@ pragma solidity >=0.4.0;
 import './Ownable.sol';
 import './Context.sol';
 import './IBEP20.sol';
-import './SafeMath.sol';
+import 'https://github.com/satrndex/contracts/blob/main/SafeMath.sol';
 
 /**
  * @dev Implementation of the {IBEP20} interface.
