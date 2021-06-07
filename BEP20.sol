@@ -2,9 +2,9 @@
 
 pragma solidity >=0.4.0;
 
-import './Ownable.sol';
-import './Context.sol';
-import './IBEP20.sol';
+import 'https://github.com/satrndex/contracts/blob/main/Ownable.sol';
+import 'https://github.com/satrndex/contracts/blob/main/Context.sol';
+import 'https://github.com/satrndex/contracts/blob/main/IBEP20.sol';
 import 'https://github.com/satrndex/contracts/blob/main/SafeMath.sol';
 
 /**
